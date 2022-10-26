@@ -13,6 +13,13 @@ Work with a partner to implement the following user story:
 ## 💡 Hints
 Before you start writing your algorithm, do you have a plan documented in plain language that describes how you will use JavaScript to get it done?
 
+## Mock Up
+The following image demonstrates the unsolved function:
+![Unsolved](./assets/images/unsolved.png)
+
+The following image demonstrates solved function:
+![Solved](./assets/images/solved.png)
+
 ## 🏆 Bonus
 If you have completed this activity, work through the following challenge with your partner to further your knowledge:
 * What is a switch case?
